@@ -1,4 +1,4 @@
-sketch/secrets.h
+**/secrets.h
 
 __pycache__/
 *.pyc
